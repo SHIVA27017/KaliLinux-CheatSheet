@@ -1,6 +1,6 @@
 # 🐱‍💻 Top Kali Linux Commands: A Complete Cheat Sheet
 
-<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="1000" height="600"/>
+<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="1000" height="500"/>
 
 ## 👋 Welcome, Curious Hackers & Self-Starters!
 
@@ -10,23 +10,23 @@ This cheat sheet was crafted from the ground up by a Linux enthusiast with a non
 
 ## 📚 Contents
 
-- [1. File & Directory Management](#1-file--directory-management)
-- [2. File Viewing & Editing](#2-file-viewing--editing)
+- [1. File & Directory Management](#1-file-directory-management)
+- [2. File Viewing & Editing](#2-file-viewing-editing)
 - [3. User Management](#3-user-management)
 - [4. Network Commands](#4-network-commands)
 - [5. Package Management (APT)](#5-package-management-apt)
-- [6. Permissions & Ownership](#6-permissions--ownership)
-- [7. Archiving & Compression](#7-archiving--compression)
+- [6. Permissions & Ownership](#6-permissions-ownership)
+- [7. Archiving & Compression](#7-archiving-compression)
 - [8. System Monitoring](#8-system-monitoring)
-- [9. Search & Filter Commands](#9-search--filter-commands)
+- [9. Search & Filter Commands](#9-search-filter-commands)
 - [10. Process Management](#10-process-management)
-- [11. Disk, Mount & USB Tools](#11-disk-mount--usb-tools)
-- [12. Boot & Service Management](#12-boot--service-management)
+- [11. Disk, Mount & USB Tools](#11-disk-mount-usb-tools)
+- [12. Boot & Service Management](#12-boot-service-management)
 - [13. Pentesting Tools (Kali)](#13-pentesting-tools-kali)
 - [14. Miscellaneous Commands](#14-miscellaneous-commands)
-- [15. Fun & Eye-Candy Commands](#15-fun--eye-candy-commands)
-- [🧠 Tips & Tricks](#-tips--tricks)
-- [📄 References](#-references)
+- [15. Fun & Eye-Candy Commands](#15-fun-eye-candy-commands)
+- [🧠 Tips & Tricks](#tips--tricks)
+- [📄 References](#references)
 
 ---
 
