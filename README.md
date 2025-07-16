@@ -1,6 +1,6 @@
 # 🐱‍💻 Top Kali Linux Commands: A Complete Cheat Sheet
 
-<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="600"/>
+<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="800"/>
 
 ## 👋 Welcome, Curious Hackers & Self-Starters!
 
@@ -32,18 +32,17 @@ This cheat sheet was crafted from the ground up by a Linux enthusiast with a non
 
 ## 📁 1. File & Directory Management
 
-| Command     | Description               | Common Options                                  |
-|-------------|---------------------------|-------------------------------------------------|
-| `ls`        | List directory contents   | `-a` (include hidden), `-l` (long format),      |
-                                          |  `-h` (human-readable)                          |
-| `cd`        | Change directory          | `..`, `~`                                       |
-| `pwd`       | Show current directory    | —                                               |
-| `mkdir`     | Create new directory      | `-p` (create parent)                            |
-| `rm`        | Delete files/directories  | `-r` (recursive), `-f` (force)                  |
-| `cp`        | Copy files/directories    | `-r` (recursive), `-v` (verbose)                |
-| `mv`        | Move or rename files      | —                                               |
-| `touch`     | Create empty file         | —                                               |
-| `tree`      | Directory structure       | `-L` (limit depth)                              |
+| Command     | Description               | Common Options                                             |
+|-------------|---------------------------|------------------------------------------------------------|
+| `ls`        | List directory contents   |`-a`(include hidden),`-l`(long format),-h`(human-readable)  |
+| `cd`        | Change directory          | `..`, `~`                                                  |
+| `pwd`       | Show current directory    | —                                                          |
+| `mkdir`     | Create new directory      | `-p` (create parent)                                       |
+| `rm`        | Delete files/directories  | `-r` (recursive), `-f` (force)                             |
+| `cp`        | Copy files/directories    | `-r` (recursive), `-v` (verbose)                           |
+| `mv`        | Move or rename files      | —                                                          |
+| `touch`     | Create empty file         | —                                                          |
+| `tree`      | Directory structure       | `-L` (limit depth)                                         |
 
 ---
 
