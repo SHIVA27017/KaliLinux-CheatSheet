@@ -1,20 +1,10 @@
 # 🐱‍💻 Top Kali Linux Commands: A Complete Cheat Sheet
 
-<img src="images/kali-banner.png" alt="Kali Linux" width="600"/>
+<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="600"/>
 
 ## 👋 Welcome, Curious Hackers & Self-Starters!
 
 This cheat sheet was crafted from the ground up by a Linux enthusiast with a non-technical background, proving that with enough curiosity and consistency, anyone can break into the world of ethical hacking and system operations.
-
----
-
-A beginner-to-advanced reference guide to mastering Kali Linux commands. Organized into clear categories, it includes essential system commands, networking tools, user management, file operations, pentesting utilities, and productivity tips — all with brief explanations for fast learning and real-world application.
-
-# 🐱‍💻 Top Kali Linux Commands: A Complete Cheat Sheet
-
-<img src="images/kali-banner.png" alt="Kali Linux" width="600"/>
-
-A practical and categorized cheat sheet of Kali Linux commands, covering everything from basics to pentesting tools — perfect for learners, sysadmins, and ethical hackers.
 
 ---
 
