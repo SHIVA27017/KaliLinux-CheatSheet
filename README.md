@@ -46,12 +46,12 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 |-----------|-------------------------|--------------------------------------------------|
 | `ls`      | List directory contents | `-a`, `-l`, `-h`                                 |
 | `cd`      | Change directory        | `cd ..`, `cd ~`                                  |
-| `pwd`     | Print working directory | —                                                |
+| `pwd`     | Print working directory |                                                  |
 | `mkdir`   | Make directory          | `-p` (create parents)                            |
 | `rm`      | Remove file/folder     | `-r` (recursive), `-f` (force)                    |
 | `cp`      | Copy file/folder       | `-r`, `-v`                                        |
-| `mv`      | Move or rename         | —                                                 |
-| `touch`   | Create empty file      | —                                                 |
+| `mv`      | Move or rename         |                                                   |
+| `touch`   | Create empty file      |                                                   |
 | `tree`    | Visual directory view  | `-L` (limit depth)                                |
 
 ---
@@ -74,13 +74,13 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 
 | Command     | Description             | Notes                         |
 |-------------|-------------------------|-------------------------------|
-| `whoami`    | Current user            | —                             |
-| `id`        | UID, GID info          | —                              |
+| `whoami`    | Current user            |                               |
+| `id`        | UID, GID info          |                                |
 | `adduser`   | Add user               | `adduser <name>`               |
-| `passwd`    | Change password        | —                              |
+| `passwd`    | Change password        |                                |
 | `su`        | Switch user            | `su -`                         |
 | `sudo`      | Superuser privilege    | `sudo <command>`               |
-| `users`     | Show logged in users   | —                              |
+| `users`     | Show logged in users   |                                |
 | `groups`    | Show user groups       | `groups <username>`            |
 
 ---
@@ -95,7 +95,7 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 | `netstat`    | Network stats           | `-tulpn`                       |
 | `ss`         | Socket stats            | `-ltnp`                        |
 | `traceroute` | Trace route             | `traceroute <host>`            |
-| `nslookup`   | DNS lookup              | —                              |
+| `nslookup`   | DNS lookup              |                                |
 | `dig`        | DNS tool                | `+short`, `ANY`, `MX`          |
 | `nmap`       | Port scan               | `-A`, `-T4`, `-p-`             |
 | `wget`       | Download from URL       | `-c`, `-O`                     |
@@ -107,13 +107,13 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 
 | Command            | Description           | Options                        |
 |--------------------|-----------------------|--------------------------------|
-| `apt update`       | Refresh package list  | —                              |
+| `apt update`       | Refresh package list  |                                |
 | `apt upgrade`      | Upgrade packages      | `-y`                           |
 | `apt install`      | Install package       | `-y`, `--no-install-recommends`|
 | `apt remove`       | Remove package        | `--purge`                      |
-| `apt autoremove`   | Clean unused packages | —                              |
-| `dpkg -i`          | Install `.deb` file   | —                              |
-| `apt-cache search` | Search packages       | —                              |
+| `apt autoremove`   | Clean unused packages |                                |
+| `dpkg -i`          | Install `.deb` file   |                                |
+| `apt-cache search` | Search packages       |                                |
 
 ---
 
@@ -124,7 +124,7 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 | `chmod`    | Set permissions          | `+x`, `755`, `u+x`     |
 | `chown`    | Set ownership            | `user:group`           |
 | `umask`    | Default permissions mask | `umask 022`            |
-| `ls -l`    | Show perms/owners        | —                      |
+| `ls -l`    | Show perms/owners        |                        |
 
 ---
 
@@ -133,10 +133,10 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 | Command   | Description         | Examples                         |
 |-----------|---------------------|----------------------------------|
 | `tar`     | Archive files       | `-cvf`, `-xvf`, `-czvf`          |
-| `gzip`    | Compress file       | —                                |
-| `gunzip`  | Decompress `.gz`    | —                                |
+| `gzip`    | Compress file       |                                  |
+| `gunzip`  | Decompress `.gz`    |                                  |
 | `zip`     | Create zip          | `-r`                             |
-| `unzip`   | Extract zip         | —                                |
+| `unzip`   | Extract zip         |                                  |
 
 ---
 
@@ -144,12 +144,12 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 
 | Command   | Description       | Notes                     |
 |-----------|-------------------|---------------------------|
-| `top`     | Real-time monitor | —                         |
+| `top`     | Real-time monitor |                           |
 | `htop`    | Visual top        | `apt install htop`        |
 | `df -h`   | Disk usage        | Human-readable            |
-| `du -sh`  | Folder size       | —                         |
-| `free -h` | Memory usage      | —                         |
-| `uptime`  | System uptime     | —                         |
+| `du -sh`  | Folder size       |                           |
+| `free -h` | Memory usage      |                           |
+| `uptime`  | System uptime     |                           |
 
 ---
 
@@ -168,11 +168,11 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 
 | Command    | Description         | Notes                    |
 |------------|---------------------|--------------------------|
-| `ps aux`   | List processes      | —                        |
+| `ps aux`   | List processes      |                          |
 | `kill`     | Kill by PID         | `-9` (force)             |
 | `killall`  | Kill by name        | `killall firefox`        |
-| `jobs`     | Show background jobs| —                        |
-| `fg`/`bg`  | Foreground/bg job   | —                        |
+| `jobs`     | Show background jobs|                          |
+| `fg`/`bg`  | Foreground/bg job   |                          |
 | `nice`     | Start with priority | `-n`                     |
 | `renice`   | Change priority     | `-p`, `-n`               |
 
@@ -182,11 +182,11 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 
 | Command     | Description           | Notes                     |
 |-------------|-----------------------|---------------------------|
-| `lsblk`     | List block devices    | —                         |
-| `blkid`     | Show UUID             | —                         |
+| `lsblk`     | List block devices    |                           |
+| `blkid`     | Show UUID             |                           |
 | `mount`     | Mount drive           | `mount /dev/sdb1 /mnt`    |
 | `umount`    | Unmount               | `umount /mnt`             |
-| `fdisk -l`  | Partition info        | —                         |
+| `fdisk -l`  | Partition info        |                           |
 | `parted`    | Partition tool        | `parted /dev/sda`         |
 
 ---
@@ -196,9 +196,9 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 | Command       | Description        | Options                       |
 |---------------|--------------------|-------------------------------|
 | `systemctl`   | Manage services    | `start`, `stop`, `status`     |
-| `service`     | Legacy control     | —                             |
+| `service`     | Legacy control     |                               |
 | `journalctl`  | System logs        | `-xe`, `--since`, `-u`        |
-| `reboot`      | Restart system     | —                             |
+| `reboot`      | Restart system     |                               |
 | `shutdown`    | Shutdown system    | `-h now`, `-r now`            |
 
 ---
@@ -228,9 +228,9 @@ Use this guide as your terminal-sidekick — whether you're learning, testing, o
 | `date`      | Show date            | `"+%Y-%m-%d"`              |
 | `cal`       | Calendar             | `cal 2025`                 |
 | `hostname`  | Show/set hostname    | `hostnamectl`              |
-| `clear`     | Clear terminal       | —                          |
+| `clear`     | Clear terminal       |                            |
 | `echo`      | Output text/vars     | `echo $HOME`               |
-| `env`       | Show environment     | —                          |
+| `env`       | Show environment     |                            |
 | `sleep`     | Wait time            | `sleep 5`                  |
 | `watch`     | Repeat command       | `watch -n 1 uptime`        |
 
