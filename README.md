@@ -1,6 +1,6 @@
 # 🐱‍💻 Top Kali Linux Commands: A Complete Cheat Sheet
 
-<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="1000" height="800"/>
+<img src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" width="1000" height="600"/>
 
 ## 👋 Welcome, Curious Hackers & Self-Starters!
 
